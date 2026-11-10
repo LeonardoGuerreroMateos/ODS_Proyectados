@@ -1,0 +1,21 @@
+Construcción del esqueleto del proyecto y primer “Happy Path”
+
+5 ventanas emergentes:
+
+Inicio
+Mapa
+Categorías
+Favoritos
+Agregar
+
+Inicio: En la ventana del inicio podrás encontrar recomendaciones sobre los lugares más populares, recomendados o nuevos cerca de la zona en donde te encuentras.
+
+Mapa: En esta ventana podrás encontrar un mapa interactivo en el cual podrás navegar por la zona en la que te encuentras y ver la ubicación exacta del negocio que estás buscando. También con indicaciones de como llegar a ese establecimiento.
+
+Categorías: En esta ventana podrás buscar los negocios en base a la categoría que estés buscando, usando filtros para encontrar qué es lo que estás buscando, por ejemplo si quieres buscar restaurantes italianos te aparezcan solo restaurantes con comida italiana.
+
+Favoritos: En esta ventana podrás guardar los negocios que más te hayan gustado y así tenerlos a la mano. Poder encontrarlos sin necesidad de buscarlos por aparte.
+
+Agregar: En esta ventana podrás agregar un negocio para que pueda aparecer en la aplicación. Un formulario para ver si podemos agregar tu negocio.
+
+La paleta de colores que va a tener la aplicación son colores tenues como el color crema, arena, verde claro y blanco; y un poco de colores fuertes como verde bosque, café y negro.
