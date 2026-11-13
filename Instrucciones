@@ -29,3 +29,8 @@ Ventana - Mapa
 Después del formulario y ver qué es lo que quiere consumir el cliente, lo va a llevar al mapa interactivo donde van a estar varios restaurantes o súper con las selecciones 
 Después seleccionas el restaurante o súper de su preferencia que se ajuste al precio del cliente y si es de su agrado va haber un label donde haga clic para que le haga una ruta
 Para llegar al restaurante o súper a pie o en vehículo. 
+
+Ventana - Explora
+Esta ventana es para que el usuario pueda buscar que es lo que quiere encontrar de una manera más fácil y sencilla.
+Aquí saldrá un apartado para poder buscar manualmente, y de una forma más específica, cuál es el negocio que estas buscando.
+También habrá secciones en donde puedes buscar que tipo de negocio quieres encontrar y te redigiran a una ventana en la cuál puedas encontrar negocios de esa selección.
