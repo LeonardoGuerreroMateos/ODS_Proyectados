@@ -21,3 +21,7 @@ En la línea 7 cambiar la geometría “420x300” por “450x340” para que lo
 En la línea 13 agregar un ciclo for con .insert("end", lugar) para precargar lugares como “La Tradicional María Barbacoa Borracha” y “KHANDA - AKASHA”.
 En la línea 36 cambiar el botón “Agregar” por “Agregar Favorito”.
 En main.py importar open_win_favoritos en lugar de open_win_list, y hacer que el botón llame a open_win_favoritos(root).
+Ventana - Mapa
+Despúes del formulario y ver que es lo que quiere consumir el cliente, lo va a llevar al mapa interactivo dónde van a estar varios restaurantes o supers con las selecciones 
+despúes seleccionas el restaurante o super de su preferencia que se ajuste al precio del cliente y si es de su agrado va haber un label dónde haga click para que le haga una ruta
+para llegar al restaurante o super a pie o en vheículo. 
