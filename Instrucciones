@@ -1,12 +1,16 @@
 Ventana - Bienvenida: 
-  Esta ventana va a ir priemero que la ventan de home y es para poder diferenciar si el usuario va a querer 
-  registrar su negocio o si busca interacutar con nuestro menú de opciones. 
+  Esta ventana va a ir primero que la ventana de home y es para poder diferenciar si el usuario va a querer 
+  Registrar su negocio o si busca interactuar con nuestro menú de opciones. 
 Ventana - Formulario: 
-  Sera una ventana emergente que saldra de la ventana de "Bienvenida". En esta ventana abra una serie de preguntas
-  que seran cerradas, para poder seleccionar tu respuesta y al final se podra mandar este forms y aparecera una ventana confirmando 
-  el envío de el formulario, después de esto se mandara de vuelta a la ventana de bienvenida 
+  Será una ventana emergente que saldrá de la ventana de "Bienvenida". En esta ventana habrá una serie de preguntas
+  que serán cerradas, para poder seleccionar tu respuesta y al final se podrá mandar este forms y aparecerá una ventana confirmando 
+  El envío del formulario, después de esto se mandará de vuelta a la ventana de bienvenida 
 Ventana - Main: 
 
+Ventana - Tips:
+  Esta ventana será para darle tips dados por la gente local a los foráneos y/o turistas, como a dónde ir si tienes un problema en específico, qué áreas de la ciudad evitar
+  lugares de recreación, recetas fáciles que los estudiantes puedan realizar... Esto con el objetivo de que el usuario tenga información que no encontrarías
+  tan fácilmente en internet.
 Ventana - Tus Favoritos
 Saldrá una ventana emergente desde el menú principal. 
 En ella habrá campos para escribir o elegir los datos del negocio que se quiere guardar o simplemente revisar los negocios guardados. 
