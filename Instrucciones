@@ -1,6 +1,8 @@
 Ventana - Bienvenida: 
   Esta ventana va a ir priemero que la ventan de home y es para poder diferenciar si el usuario va a querer 
   registrar su negocio o si busca interacutar con nuestro menú de opciones. 
-Ventana Formulario: 
-  
+Ventana - Formulario: 
+  Sera una ventana emergente que saldra de la ventana de "Bienvenida". En esta ventana abra una serie de preguntas
+  que seran cerradas, para poder seleccionar tu respuesta y al final se podra mandar este forms y aparecera una ventana confirmando 
+  el envío de el formulario, después de esto se mandara de vuelta a la ventana de bienvenida 
 Ventana - Main: 
