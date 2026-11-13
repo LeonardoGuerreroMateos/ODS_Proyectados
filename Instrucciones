@@ -6,3 +6,14 @@ Ventana - Formulario:
   que seran cerradas, para poder seleccionar tu respuesta y al final se podra mandar este forms y aparecera una ventana confirmando 
   el envío de el formulario, después de esto se mandara de vuelta a la ventana de bienvenida 
 Ventana - Main: 
+
+Ventana - Tus Favoritos
+Saldrá una ventana emergente desde el menú principal. 
+En ella habrá campos para escribir o elegir los datos del negocio que se quiere guardar o simplemente revisar los negocios guardados. 
+Al presionar el botón de guardar o agregar, la ventana se cierra y aparece un mensaje que confirma que el lugar se añadió a la lista. 
+Después, la pantalla se actualiza y muestra el nuevo favorito.
+En la línea 4 cambiar “Lista (CRUD básico)” por “Tus Favoritos”.
+En la línea 7 cambiar la geometría “420x300” por “450x340” para que los nombres largos no se recorten.
+En la línea 13 agregar un ciclo for con .insert("end", lugar) para precargar lugares como “La Tradicional María Barbacoa Borracha” y “KHANDA - AKASHA”.
+En la línea 36 cambiar el botón “Agregar” por “Agregar Favorito”.
+En main.py importar open_win_favoritos en lugar de open_win_list, y hacer que el botón llame a open_win_favoritos(root).
